@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://e0.pxfuel.com/wallpapers/142/461/desktop-wallpaper-shri-ram-ji-artwork-poster-by-nikhil-mishra-creations-displate-lord-rama-rama-lord-krishna-shiva-artistic.jpg);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    color: rgb(166, 158, 158);
+}
